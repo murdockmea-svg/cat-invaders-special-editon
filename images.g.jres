@@ -1,0 +1,34 @@
+{
+    "image1": {
+        "data": "hwQMABAAAAAADw8AAAAAAADwAAAA8A8AAP//APAPAADwv/0P//8P8P//Ef/////////x/////////9v/////AP//8f////////8R///////wv/0P//8P8AD//wDwDwAAAAAAAADwDwA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "ninja"
+    },
+    "P!SN:(/KL=)hR}9=bfH@": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAA/wAAAAAAAP//AAD/AADwjw8AAP//APD4DwAA8PgP8P8AAADwj///DwAAAAD//4gPAAAAAADwiP//AAAAAPD///gPAAAA/w/wjw8AAPCPDwD//wAA8PgPAAD/AAD//wAAAAAAAP8AAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "ninjaStar"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "image3": {
+        "data": "hwQQABAAAABVVV9VVVVVVVVVX1X1VVVVVVVfVfVVVVVVVV/19VVVVVVV//9VVVVVVVVfVfVVVVVVVVX3////VVVVVT/1VVVVVVVV91VVVVVVVVVV//9fVVVVVVVf9VVVVVVVVf//X1VVVVVVVVVVVVVVVVVf9VVVVVVVVf//VVVVVVVVVVVVVQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage0"
+    },
+    "anim1": {
+        "namespace": "myAnimations",
+        "id": "anim1",
+        "mimeType": "application/mkcd-animation",
+        "data": "YzgwMDBjMDAxMDAwMDQwMDAwZjBmZmZmMDAwMDAwZWZlZWVlZmYwMGYwZWVlZWVlZmUwZmVmZWVlZWVlZmZmZmVmNGVlZWZlZmZmZmVmNGVlNGVlZmZmZmZmNGU0NDQ0ZmZmZmZmNGVmNDRmNGVmZmYwZGZkZDRkNGQwZjAwYmZkYjRkZmYwZjAwZWY0NGU0ZmUwMDAwMWYxMWRlNGQwMDAwMWYxMWRlZWQwMDAwNmY2NmVmZmUwMDAwZjBmZmZmMGYwMDAwMDBmMGZmMDAwMDAwMDAwMDAwMDAwMDAwZjBmZmZmMGYwMDAwZWZlZWVlZmYwZmYwZWVlZWVlZmVmZmVmZWVlZWVlZmZmZmVmNGVlZWZlZmZmZmVmNGVlNGVlZmZmZmZmNGU0NDQ0ZmZmZmYwNGVmNDRmNGVmZjAwZGZkZDRkNGQwZjAwYmZkYmVlZmYwZjAwZWZlNGRkZjQwMDAwMWZlMWRkZmUwMGYwNmZmNmVlZmYwZmYwZmZmZmZmZmYwZjAwZmYwZjAwZmYwMDAwMDAwMDAwMDAwMDAwZjBmZmZmMGYwMDAwZWZlZWVlZmYwZmYwZWVlZWVlZmVmZmVmZWVlZWVlZmZmZmVmNGVlZWZlZmZmZmVmNGVlNGVlZmZmZmZmNGU0NDQ0ZmZmZmYwNGVmNDRmNGVmZjAwZGZkZDRkNGRmZjAwYmZkYjRkZmYwZjAwZWY0NGU0ZGQwNDAwMWYxMWUxZGQwZWYwNmY2NmY2ZWUwZmYwZmZmZmZmZmYwZjAwZmYwZjAwZmYwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDEwMDAxMDkwMDkwMDEwMDAxMDkwMDkwMDEwMDAxMDkwMDkwMDEwMTExMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDBmMDAwMDAwMDAwMDBmZjAwMDAwMDAwMDBmZjAwMDAwMDAwZmZmZjAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "displayName": "myAnim"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
