@@ -1,1 +1,3 @@
-document.write( '<div style=\"position:relative;height:0;padding-bottom:117.6%;overflow:hidden;\"><iframe style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" src=\"https://arcade.makecode.com/---run?id=S76862-24350-04495-99342\" allowfullscreen=\"allowfullscreen\" sandbox=\"allow-popups allow-forms allow-scripts allow-same-origin\" frameborder=\"0\"></iframe></div>' );
+
+
+document.write( '<iframe name=\"myiFrame\" width=\"500px\" height=\"580px\" src=\"https://arcade.makecode.com/---run?id=S76862-24350-04495-99342\" scrolling=\"no\" marginwidth=\"0\" marginheight=\"0\" style=\"border:0px none #ffffff;\"></iframe>' );
