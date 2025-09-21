@@ -1,0 +1,1 @@
+document.write( '<iframe name=\"myiFrame\" width=\"500px\" height=\"580px\" src=\"https://arcade.makecode.com/---run?id=S76862-24350-04495-99342\" scrolling=\"no\" marginwidth=\"0\" marginheight=\"0\" style=\"border:0px none #ffffff;\"></iframe>' );
